@@ -104,3 +104,20 @@ a {
     padding-top: 20px;
     padding-bottom: 20px;
 }
+
+.assignment {
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+    background-color: #fcfcd3;
+    padding-bottom: 20px;
+}
+
+.answers-start {
+    width: 100%;
+    background-color: #f5f5f5;
+    color: #2d3b45;
+    border: #dcdcdc dotted 3.5px;
+}
